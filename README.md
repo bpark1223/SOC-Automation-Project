@@ -8,4 +8,5 @@ In this cybersecurity project, I created a comprehensive diagram of data travers
 <br />
 <h2>Step-by-Step Walkthrough</h2>
 1. Data originates at the Windows 10 Client, which has the Wazuh Agent installed. 
-2. 
+<br />
+2. The Wazuh agent is a multi-platform tool that collects logs and security events from endpoints and sends them to a Wazuh server for analysis and storage.
