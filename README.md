@@ -11,5 +11,7 @@ In this cybersecurity project, I created a comprehensive diagram of data travers
 <br />
 2. The Wazuh agent collects logs and security events and sends them through the router and Internet to the Wazuh Manager.
 <br />
-3. The Wazuh manager then collects and analyzes data from the deployed Wazuh agents. It triggers alerts when threats or anomalies are detected.
+3. The Wazuh manager then collects and analyzes data from the deployed Wazuh agents. It triggers alerts to Shuffle when threats or anomalies are detected 
+<br />
+4. Shuffle then performs open-source intelligence (OSINT) gathering to enrich the indicators of compromise (IOC). It will then send an alert to TheHive
 <br />
