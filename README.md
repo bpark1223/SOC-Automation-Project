@@ -6,4 +6,5 @@ In this cybersecurity project, I created a comprehensive diagram of data travers
 <h2>Project walk-through:</h2>
 <img width="600" alt="Screenshot 2024-06-13 at 7 23 23 PM" src="https://github.com/bpark1223/SOC-Automation-Project/assets/77799235/ef5549f0-3dee-412f-8544-07bb13fa4f68">
 <br />
-<h2>Assessment</h2>
+<h2>Step-by-Step Walkthrough</h2>
+<br />
