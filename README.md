@@ -13,5 +13,8 @@ In this cybersecurity project, I created a comprehensive diagram of data travers
 <br />
 3. The Wazuh manager then collects and analyzes data from the deployed Wazuh agents. It triggers alerts to Shuffle when threats or anomalies are detected 
 <br />
-4. Shuffle then performs open-source intelligence (OSINT) gathering to enrich the indicators of compromise (IOC). It will then send an alert to TheHive
+4. Shuffle then performs open-source intelligence (OSINT) gathering to enrich the indicators of compromise (IOC). It will then send an alert to TheHive, as well as an email to the SOC analyst 
 <br />
+5. The SOC analyst then receives this email which contains details about the alert, and asks if the analyst would like to perform a certain action. 
+<br />
+6. Depending on the response, the action will then be sent over to Shuffle, then to Wazuh, and finally back to the Client which will perform the said action.
