@@ -17,4 +17,4 @@ In this cybersecurity project, I created a comprehensive diagram of data travers
 <br />
 5. The SOC analyst then receives this email which contains details about the alert, and asks if the analyst would like to perform a certain action. 
 <br />
-6. Depending on the response, the action will then be sent over to Shuffle, then to Wazuh, and finally back to the Client which will perform the said action.
+6. Depending on the response, the action will then be sent over to Shuffle, then to Wazuh, and finally back to the Client which will perform the action.
